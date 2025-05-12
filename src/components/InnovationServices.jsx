@@ -1,5 +1,5 @@
-import { Card, CardContent } from "../ui/card";
-import { Button } from "../ui/button";
+import { Card, CardContent } from "../ui/div";
+import { Button } from "../ui/Button";
 
 export default function InnovationServices() {
   return (
